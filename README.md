@@ -630,11 +630,10 @@ in the Software without restriction...
 
 ### Getting Help
 
-- 📖 **Documentation:** Read the [docs](docs/)
 - 💬 **Issues:** Open a [GitHub issue](https://github.com/yourusername/quantum-banking/issues)
-- 📧 **Email:** your-email@example.com
-- 💡 **Discussions:** Join our [discussions](https://github.com/yourusername/quantum-banking/discussions)
+- 📧 **Email:** femmetronics@gmail.com
 
+  
 ### FAQ
 
 **Q: Is this real quantum cryptography?**  
@@ -660,39 +659,15 @@ A: The BB84 protocol provides information-theoretic security (proven by physics)
 
 - ✅ BB84 quantum key distribution
 - ✅ AES-256-GCM encryption
-- ✅ Interactive user interface
+- ✅ Interactive user interfaces 
 - ✅ Fraud detection
 - ✅ Transaction history
 - ✅ Google Colab support
 
-### Future Plans (v2.0)
 
-- 🔄 Integration with real quantum hardware APIs
-- 🌐 Multi-currency support
-- 📱 Mobile interface
-- 🔗 Blockchain verification
-- 🤖 AI-powered fraud detection
-- 🌍 Multi-language support
-- 📊 Advanced analytics dashboard
-- 🔌 REST API for integration
 
-### Long-term Goals
-
-- 🏛️ Banking industry partnerships
-- 🎓 Academic collaborations
-- 🌐 Quantum network integration
-- 📜 Security audits & certifications
 
 ---
-
-## 📈 Statistics
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/yourusername/quantum-banking?style=social)
-![Forks](https://img.shields.io/github/forks/yourusername/quantum-banking?style=social)
-![Issues](https://img.shields.io/github/issues/yourusername/quantum-banking)
-![PRs](https://img.shields.io/github/issues-pr/yourusername/quantum-banking)
 
 </div>
 
@@ -701,22 +676,6 @@ A: The BB84 protocol provides information-theoretic security (proven by physics)
 ## 🌟 Star History
 
 If you find this project useful, please consider giving it a ⭐!
-
----
-
-## 📜 Citation
-
-If you use this project in your research or work, please cite:
-
-```bibtex
-@software{quantum_banking_2024,
-  title = {Interactive Quantum-Secured Bank Transfer System},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/quantum-banking},
-  version = {1.0}
-}
-```
 
 ---
 
